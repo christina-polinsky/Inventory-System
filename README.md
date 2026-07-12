@@ -9,10 +9,11 @@ Inventory System is a desktop inventory and productivity application designed to
 ## 🚀 Features
 
 ### **Current Functionality (MVP)**
-* **Active Project Tracker:** Full CRUD functionality to create, update, and manage ongoing hardware and software development projects.
+* **Active Project Tracker:** Full CRUD functionality to create, update, and manage ongoing hardware and software development projects. Here you can also add what components and parts that you need to purchase for the project.
 * **Skeuomorphic UI Engine:** Custom-styled windows, borders, and controls that replicate a vintage desktop aesthetic without relying on standard modern flat-design frameworks.
 * **Contextual ToolTips & Hints:** Retro-inspired user assistance and micro-interactions built entirely from scratch.
-* 7/12/2026: ONLY the Projects section has functionality. I have started to work on the Components & Parts section. I will update the code inm this repository and update this READ.ME as I go. 
+* **Shopping List Builder:** This makes a PDF based on what you have in the Bill of Materials of each project and what you have logged in the database that you own. As of 7/12/2026 you cannot add components that you own that aren't directly related to a project. This functionality is coming. 
+* 7/12/2026: ONLY the Projects and the Shopping List sections have functionality. I have started to work on the Components & Parts section. I will update the code inm this repository and update this READ.ME as I go. 
 
 ### **On the Roadmap**
 * [ ] **Tool Cataloging System:** Dedicated database module to track physical tool location, calibration dates, and usage history.
