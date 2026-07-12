@@ -13,7 +13,7 @@ Inventory System is a desktop inventory and productivity application designed to
 * **Skeuomorphic UI Engine:** Custom-styled windows, borders, and controls that replicate a vintage desktop aesthetic without relying on standard modern flat-design frameworks.
 * **Contextual ToolTips & Hints:** Retro-inspired user assistance and micro-interactions built entirely from scratch.
 * **Shopping List Builder:** This makes a PDF based on what you have in the Bill of Materials of each project and what you have logged in the database that you own. As of 7/12/2026 you cannot add components that you own that aren't directly related to a project. This functionality is coming. 
-* 7/12/2026: ONLY the Projects and the Shopping List sections have functionality. I have started to work on the Components & Parts section. I will update the code inm this repository and update this READ.ME as I go. 
+* 7/12/2026: ONLY the Projects and the Shopping List sections have functionality. I have started to work on the Components & Parts section. I will update the code inm this repository and update this READ.ME as I go. The header images are also placeholders and will be fixed in a future revision.
 
 ### **On the Roadmap**
 * [ ] **Tool Cataloging System:** Dedicated database module to track physical tool location, calibration dates, and usage history.
