@@ -1,6 +1,8 @@
-# 🛠️ RetroTrack: Skeuomorphic Project & Inventory Manager
+# 🛠️ Inventory System: Skeuomorphic Project & Inventory Manager
 
-RetroTrack is a desktop inventory and productivity application designed to catalog projects, tools, and materials. Built with a heavy appreciation for early-2000s design principles, the application features a fully custom, toggleable skeuomorphic user interface inspired by the iconic Windows XP era—bringing tactile, rich visual design back to modern utility software.
+Inventory System is a desktop inventory and productivity application designed to catalog projects, tools, and materials. Built with a heavy appreciation for early-2000s design principles, the application features a fully custom, toggleable skeuomorphic user interface inspired by the iconic Windows XP era—bringing tactile, rich visual design back to modern utility software.
+
+
 
 ![Application Screenshot](path/to/your/screenshot.png) <!-- 💡 Tip: Add a screenshot or GIF of your UI here! -->
 
@@ -10,6 +12,7 @@ RetroTrack is a desktop inventory and productivity application designed to catal
 * **Active Project Tracker:** Full CRUD functionality to create, update, and manage ongoing hardware and software development projects.
 * **Skeuomorphic UI Engine:** Custom-styled windows, borders, and controls that replicate a vintage desktop aesthetic without relying on standard modern flat-design frameworks.
 * **Contextual ToolTips & Hints:** Retro-inspired user assistance and micro-interactions built entirely from scratch.
+* 7/12/2026: ONLY the Projects section has functionality. I have started to work on the Components & Parts section. I will update the code inm this repository and update this READ.ME as I go. 
 
 ### **On the Roadmap**
 * [ ] **Tool Cataloging System:** Dedicated database module to track physical tool location, calibration dates, and usage history.
