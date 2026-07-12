@@ -3,9 +3,6 @@
 Inventory System is a desktop inventory and productivity application designed to catalog projects, tools, and materials. Built with a heavy appreciation for early-2000s design principles, the application features a fully custom, toggleable skeuomorphic user interface inspired by the iconic Windows XP era—bringing tactile, rich visual design back to modern utility software.
 
 
-
-![Application Screenshot](path/to/your/screenshot.png) <!-- 💡 Tip: Add a screenshot or GIF of your UI here! -->
-
 ## 🚀 Features
 
 ### **Current Functionality (MVP)**
